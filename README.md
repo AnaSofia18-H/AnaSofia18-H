@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ana Sofía</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=29B6F6&center=true&vCenter=true&width=520&lines=Systems+Engineering+Student;Backend+with+NestJS+and+Java+Spring;Databases%2C+Docker+and+Networking" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=29B6F6&center=true&vCenter=true&width=520&lines=Systems+Engineering+Student;Backend+with+NestJS+and+Java+Spring;Databases%2C+Docker+and+Networking;Follow+me+for+more+%3A3" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
