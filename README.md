@@ -14,29 +14,32 @@
   <img src="https://komarev.com/ghpvc/?username=AnaSofia18-H&color=29b6f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<h2>About me</h2>
+<h2 align="center">About me</h2>
 
-- **Systems Engineering** student at **Universidad Tecnológica del Putumayo (UNIPUTUMAYO)**, Colombia.
-- I love **backend** development: REST APIs with NestJS and Java Spring, JWT authentication and role-based access control.
-- I also work with **SQL databases**, **Docker** and **Cisco networking**.
-- Always learning something new.
+<p align="center">
+  <b>Systems Engineering</b> student at <b>Universidad Tecnológica del Putumayo (UNIPUTUMAYO)</b>, Colombia.<br/>
+  I'm learning <b>backend</b> development: REST APIs with NestJS and Java Spring, JWT authentication and role-based access control.<br/>
+  Along the way I've also worked with <b>SQL databases</b>, <b>Docker</b> and <b>Cisco networking</b>.<br/>
+  Still learning something new every day.
+</p>
 
-<h2>Tech stack</h2>
+<h2 align="center">Technologies I've learned</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,spring,mysql,docker,postman,git,github,vscode,html,css&perline=7" alt="Tech stack" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
   <img src="https://img.shields.io/badge/TypeORM-0277BD?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
   <img src="https://img.shields.io/badge/JWT-03A9F4?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
 
-<h2>Featured projects</h2>
+<h2 align="center">Featured projects</h2>
 
+<div align="center">
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -59,12 +62,12 @@
 </td>
 </tr>
 </table>
+</div>
 
-<h2>GitHub stats</h2>
+<h2 align="center">GitHub activity</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnaSofia18-H&show_icons=true&hide_border=true&bg_color=E1F5FE&title_color=0277BD&icon_color=29B6F6&text_color=01579B" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSofia18-H&layout=compact&hide_border=true&bg_color=E1F5FE&title_color=0277BD&text_color=01579B" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaSofia18-H&bg_color=E1F5FE&color=0277BD&line=29B6F6&point=0277BD&area=true&area_color=81D4FA&hide_border=true&custom_title=My%20contributions" alt="Activity graph" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnaSofia18-H&hide_border=true&background=E1F5FE&ring=29B6F6&fire=0277BD&currStreakLabel=0277BD&sideLabels=01579B&dates=4FC3F7&currStreakNum=01579B&sideNums=01579B" alt="Streak" />
