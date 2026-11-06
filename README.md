@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ana_pixel.svg" width="230" alt="Ana pixel art" />
+  <img src="./ana_chopper.svg" width="230" alt="Ana pixel art" />
 </p>
 
 <h1 align="center">Hi, I'm Ana Sofía</h1>
