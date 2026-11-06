@@ -64,11 +64,8 @@
 </table>
 </div>
 
-<h2 align="center">GitHub activity</h2>
+<h2 align="center">My streak</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaSofia18-H&bg_color=E1F5FE&color=0277BD&line=29B6F6&point=0277BD&area=true&area_color=81D4FA&hide_border=true&custom_title=My%20contributions" alt="Activity graph" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnaSofia18-H&hide_border=true&background=E1F5FE&ring=29B6F6&fire=0277BD&currStreakLabel=0277BD&sideLabels=01579B&dates=4FC3F7&currStreakNum=01579B&sideNums=01579B" alt="Streak" />
 </p>
